@@ -1,0 +1,2 @@
+"Interactive Bloch Sphere Visualizer using Three.js"
+A real-time web-based visualization tool for qubit states $|\psi\rangle = \alpha|0\rangle + \beta|1\rangle$. Adjust complex coefficients to see instant changes in the state vector and measurement probabilities. No installation required.
